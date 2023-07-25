@@ -1,13 +1,13 @@
 import React from "react";
 
-function Header({ currentPage, handlePageChange }){
+function Header({ currentPage, handleNavigation }){
     return (
         <ul className="nav nav-tabs">
           <li className="nav-item">
             <a
-              href="#AboutMe"
-              onClick={() => handlePageChange('AboutMe')}
-              className={currentPage === 'AboutMe' ? 'nav-link active' : 'nav-link'}
+              href="#About"
+              onClick={() => handleNavigation('About')}
+              className={currentPage === 'About' ? 'nav-link active' : 'nav-link'}
             >
               About Me
             </a>
@@ -15,7 +15,7 @@ function Header({ currentPage, handlePageChange }){
           <li className="nav-item">
             <a
               href="#Contact"
-              onClick={() => handlePageChange('Contact')}
+              onClick={() => handleNavigation('Contact')}
               className={currentPage === 'Contact' ? 'nav-link active' : 'nav-link'}
             >
               Contact
@@ -24,7 +24,7 @@ function Header({ currentPage, handlePageChange }){
           <li className="nav-item">
             <a
               href="#Portfolio"
-              onClick={() => handlePageChange('Portfolio')}
+              onClick={() => handleNavigation('Portfolio')}
               className={currentPage === 'Portfolio' ? 'nav-link active' : 'nav-link'}
             >
               Portfolio
@@ -33,7 +33,7 @@ function Header({ currentPage, handlePageChange }){
           <li className="nav-item">
             <a
               href="#Resume"
-              onClick={() => handlePageChange('Resume')}
+              onClick={() => handleNavigation('Resume')}
               className={currentPage === 'Resume' ? 'nav-link active' : 'nav-link'}
             >
               Contact
