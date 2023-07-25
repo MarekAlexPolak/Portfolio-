@@ -12,7 +12,7 @@ export default function Setpage () {
 
   return (
     <div>
-      <Header currentPage={currentPage} handlePageChange={handleNavigation} />
+      <Header currentPage={currentPage} handleNavigation={handleNavigation} />
       <main>
         <Navigation currentPage={currentPage} />
           
