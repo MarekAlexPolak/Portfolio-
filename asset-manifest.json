@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MarekAlexPolak.github.io/Portfolio-/static/css/main.6d84ed0f.css",
+    "main.js": "/MarekAlexPolak.github.io/Portfolio-/static/js/main.9e6a7d40.js",
+    "index.html": "/MarekAlexPolak.github.io/Portfolio-/index.html",
+    "main.6d84ed0f.css.map": "/MarekAlexPolak.github.io/Portfolio-/static/css/main.6d84ed0f.css.map",
+    "main.9e6a7d40.js.map": "/MarekAlexPolak.github.io/Portfolio-/static/js/main.9e6a7d40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d84ed0f.css",
+    "static/js/main.9e6a7d40.js"
+  ]
+}
