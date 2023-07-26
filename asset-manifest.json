@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.6d84ed0f.css",
-    "main.js": "/React-Portfolio/static/js/main.fef07e43.js",
+    "main.css": "/React-Portfolio/static/css/main.84171348.css",
+    "main.js": "/React-Portfolio/static/js/main.2232f586.js",
+    "static/media/me.PNG": "/React-Portfolio/static/media/me.ea118d73712178d0c776.PNG",
     "static/media/resume.pdf": "/React-Portfolio/static/media/resume.ef95dd59cc5b900144ad.pdf",
     "static/media/bookwise.PNG": "/React-Portfolio/static/media/bookwise.fadba4c548c9117d3659.PNG",
+    "static/media/resumepic.jpg": "/React-Portfolio/static/media/resumepic.96db8571c0f4e5c6f6a8.jpg",
     "static/media/lykesongs.PNG": "/React-Portfolio/static/media/lykesongs.f30069471e0219f096f2.PNG",
-    "static/media/passgenerator.PNG": "/React-Portfolio/static/media/passgenerator.35e860026f88c735f78b.PNG",
+    "static/media/scheduler.PNG": "/React-Portfolio/static/media/scheduler.8422d55349120999809a.PNG",
+    "static/media/passgenerator.PNG": "/React-Portfolio/static/media/passgenerator.94a34e5914ec4f9e312a.PNG",
     "static/media/notetaker.PNG": "/React-Portfolio/static/media/notetaker.890b96cb6e0415b61b7c.PNG",
     "static/media/texteditor.PNG": "/React-Portfolio/static/media/texteditor.aea85a616478ed3df03c.PNG",
     "index.html": "/React-Portfolio/index.html",
-    "main.6d84ed0f.css.map": "/React-Portfolio/static/css/main.6d84ed0f.css.map",
-    "main.fef07e43.js.map": "/React-Portfolio/static/js/main.fef07e43.js.map"
+    "main.84171348.css.map": "/React-Portfolio/static/css/main.84171348.css.map",
+    "main.2232f586.js.map": "/React-Portfolio/static/js/main.2232f586.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d84ed0f.css",
-    "static/js/main.fef07e43.js"
+    "static/css/main.84171348.css",
+    "static/js/main.2232f586.js"
   ]
 }
