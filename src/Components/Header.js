@@ -2,12 +2,12 @@ import React from "react";
 
 function Header({ currentPage, handleNavigation }) {
   const doubledFontSize = {
-    fontSize: '2rem', // Set the font size to double the original size
+    fontSize: '2rem', 
   };
 
   const headerStyle = {
     ...doubledFontSize,
-    padding: '1rem', // Add padding to all sides of the header
+    padding: '1rem', 
   };
 
   return (
