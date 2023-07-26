@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
@@ -22,7 +22,7 @@ Go to the deployed application at the following link: https://marekalexpolak.git
 
 ## License
     
-MIT License
+This project is licensed under the [MIT License](LICENSE).
 
 ## Contact Information
   
