@@ -12,10 +12,6 @@ My portfolio website!
 
   - [Contact Information](#contact-information)
 
-## Installation
-
-N/A
-
 ## Usage
 
 Go to the deployed application at the following link: https://marekalexpolak.github.io/React-Portfolio/ and read about me!
