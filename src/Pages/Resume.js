@@ -1,18 +1,19 @@
 import React from 'react';
-import { Document, Page, PDFViewer } from '@react-pdf/renderer';
-import ResumePDF from "./resume.pdf";
+import './Resume.css';
+import myResume from "../assets/resume.pdf";
+import resumePic from "../assets/images/resumepic.jpg";
 
-const Resume = () => {
+const ResumePage = () => {
   return (
     <section id="resume">
       <h2>Resume</h2>
-      <PDFViewer width="100%" height={500}>
-        <Document file={ResumePDF}>
-          <Page pageNumber={1} />
-        </Document>
-      </PDFViewer>
+      <div className="resume-image-container">
+        <a href={myResume} target="_blank" rel="noopener noreferrer" download>
+          <img src={resumePic} alt="Resume" className="resume-image" />
+        </a>
+      </div>
     </section>
   );
 };
 
-export default Resume; 
+export default ResumePage;

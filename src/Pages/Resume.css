@@ -1,0 +1,15 @@
+#resume {
+    text-align: center;
+  }
+  
+  .resume-image-container {
+    margin: 20px auto;
+    max-width: 800px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  
+  .resume-image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }

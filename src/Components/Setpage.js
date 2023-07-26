@@ -11,7 +11,7 @@ export default function Setpage () {
   };
 
   return (
-    <div>
+    <div class = "fullpage">
       <Header currentPage={currentPage} handleNavigation={handleNavigation} />
       <main>
         <Navigation currentPage={currentPage} />
