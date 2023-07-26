@@ -1,17 +1,6 @@
 import React from 'react';
 import { Container, Row, Col, Card, Button } from 'react-bootstrap'; // Assuming you are using Bootstrap for styling
-
-const projects = [
-  {
-    id: 1,
-    title: 'Project 1',
-    description: 'A brief description of project 1.',
-    imageUrl: 'https://example.com/project1.jpg',
-    liveDemoUrl: 'https://example.com/project1-demo',
-    sourceCodeUrl: 'https://github.com/your-username/project1',
-  },
-  // Add more projects as needed
-];
+import projects from "../Components/Project";
 
 const Portfolio = () => {
   return (

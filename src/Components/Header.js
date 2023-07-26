@@ -36,7 +36,7 @@ function Header({ currentPage, handleNavigation }){
               onClick={() => handleNavigation('Resume')}
               className={currentPage === 'Resume' ? 'nav-link active' : 'nav-link'}
             >
-              Contact
+              Resume
             </a>
           </li>
         </ul>
